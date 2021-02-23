@@ -1,3 +1,2 @@
 from math import*
-print(sqrt(81))
-#Mālkalns
+print(skrt(81))
